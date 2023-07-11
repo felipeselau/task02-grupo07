@@ -27,3 +27,15 @@ Transfira a massa para uma forma untada e enfarinhada com uma mistura de farinha
 O núcleo (kernel) do Linux é um projeto de código aberto com um escopo bastante grande. A maior parte da vida da manutenção do núcleo o Linux (1991-2002), as mudanças no código eram compartilhadas como correções e arquivos. Em 2002, o projeto do núcleo do Linux começou usar uma DVCS proprietária chamada BitKeeper.</p>
 
 ---
+
+<h3>Anne Rocha - Front End</h3>
+
+<h4>Miojo Cremoso</h4>
+
+<p>Cozinhe o macarrão instantâneo normalmente.</p>
+
+<p>Em uma panela, coloque a manteiga, o tomate, a cebola e o tempero em pó do macarrão instantâneo para fritar, sempre mexendo bem para não empelotar.</p>
+
+<p>Depois despeje o creme de leite e misture o molho ao macarrão instantâneo.</p>
+
+---
