@@ -11,9 +11,19 @@ Em seguida, adicione 1 xícara de chá de água quente, 1 colher de sopa de ferm
 Transfira a massa para uma forma untada e enfarinhada com uma mistura de farinha de trigo e chocolate em pó. Leve para assar em forno preaquecido a 180 graus Celsius por 40 minutos.
 </p>
 
-------
+---
 
 <h3>Hugo Ferreira - Back End</h3>
 <p>Nada como uma receita de pão caseiro deliciosa e muito prática! Além de ter um passo a passo simples e fácil, você vai ver como a massa do seu pão vai ficar bem fofinha! Confira agora mesmo como fazer essa delícia!</p>
 
-------
+---
+
+ <h3>Ricardo Silva - Back End</h3>
+
+ <h4>Uma Breve História do Git</h4> 
+ 
+ <p>Como muitas coisas na vida, o Git começou com um pouco de destruição criativa e uma ardente controvérsia.
+
+O núcleo (kernel) do Linux é um projeto de código aberto com um escopo bastante grande. A maior parte da vida da manutenção do núcleo o Linux (1991-2002), as mudanças no código eram compartilhadas como correções e arquivos. Em 2002, o projeto do núcleo do Linux começou usar uma DVCS proprietária chamada BitKeeper.</p>
+
+---
